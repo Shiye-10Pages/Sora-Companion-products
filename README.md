@@ -7,3 +7,12 @@
 | <a href="https://vmake.ai/blog/remove-sora-2-video-watermark-easily-with-vmake-ai">Vmake AI</a> | AI视频修复和运动跟踪，逐帧重建像素 | 无模糊或颜色不匹配，保留原始视频质量 | 三步在线流程（上传、导入、导出），无需GPU | 未指定 | 针对Sora 2移动水印，处理复杂纹理和光线 |
 | <a href="https://wavespeed.ai/models/wavespeed-ai/video-watermark-remover">Wavespeed AI Video Watermark Remover</a> | 时序感知修复、智能文本/标志针对和自适应蒙版 | 保留原始外观，无闪烁或细节丢失 | 简单上传-运行-下载流程，网页端操作 | $0.01/秒（最低$0.05/5秒） | 专为Sora 2水印和文本设计，处理半透明叠加 |
 |<a href="https://magiceraser.org/remove-watermark-from-video/"> Magic Eraser </a>| AI自动检测和用户辅助选择，无缝擦除 | 保持原始清晰度和锐利度，无伪影 | 四步在线流程（上传、选择、AI移除、下载），无需登录 | 完全免费 | 处理Sora视频中的移动标志和复杂水印
+
+# 十页是谁/About Me
+- **AI** **授人以渔** **主观分享** **故事化科普** 
+- AI生图 / AI生视频 / AI个人成长 
+- 探索AI视觉生成技巧、AI软硬件给个人和组织带来的影响和挑战
+## 如何关注我
+- 推特（X）：https://x.com/01shiye
+- 微信：Leowrylee
+- 小红书 / B站 / YouTube：十页AI  
